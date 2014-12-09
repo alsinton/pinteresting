@@ -20,6 +20,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'bootstrap-sass'
+gem 'devise', '~> 3.4.1.rc2'
 
 group :development, :test do
 	gem 'sqlite3'
